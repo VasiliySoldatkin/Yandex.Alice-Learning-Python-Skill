@@ -6,6 +6,6 @@
 >set FLASK_ENV=development   
 >flask run --with-threads
 >
-Запустить ngrok.exe http 5000    
+2)Запустить ngrok.exe http 5000    
 3) {webhook}/post из ngrok.exe добавить в yandex.dialogs или https://station.aimylogic.com/   
 """   
